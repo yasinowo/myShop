@@ -16,7 +16,7 @@
 
 ---
 
-    ## ⚡نصب
+   ## نصب
 1. **نصب آخرین نسخه**  
    آخرین نسخه را از [اینجا دانلود کنید](https://raw.githubusercontent.com/yasinowo/myShop/refs/heads/main/app-arm64-v8a-release.apk).
 
