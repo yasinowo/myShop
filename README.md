@@ -16,6 +16,8 @@
 
 ---
 
+## ویدیو 
+  برای دانلود ویدیو [اینجا دانلود کنید](https://raw.githubusercontent.com/yasinowo/myShop/refs/heads/main/assets/Screenrecorder-2024-12-18-21-36-12-849.mp4).
 
    ## نصب
 1. **نصب آخرین نسخه**  
